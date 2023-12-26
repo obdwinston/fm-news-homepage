@@ -83,6 +83,10 @@
 
 /* COMPONENT STYLES */
 
+:root {
+  background: var(--off-white);
+}
+
 .header {
   display: flex;
   justify-content: space-between;
